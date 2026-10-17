@@ -1,0 +1,23 @@
+# 1. Cấu hình cá nhân của IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 2. Thư mục và file biên dịch (Code sinh ra tự động)
+out/
+target/
+*.class
+
+# 3. Môi trường Java và thư viện cục bộ
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 4. File rác của hệ điều hành
+.DS_Store
+Thumbs.db
