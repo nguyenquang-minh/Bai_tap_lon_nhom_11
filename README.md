@@ -1,1 +1,1 @@
-Bai tap lon nhom 11
+![Sơ đồ lớp hệ thống đấu giá](images/Bai_tap_lon_nhom_11.drawio.png)
